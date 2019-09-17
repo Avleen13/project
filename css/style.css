@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
+body{
+    font-family: 'Nunito', sans-serif;
+    background-image: url('../images/background.jpg');
+    color: white;
+}
+.heading{
+    font-size: 3rem;
+    font-weight: bolder;
+    color: aqua
+}
+h2{
+    color: deeppink;
+    font-weight: bold
+}
